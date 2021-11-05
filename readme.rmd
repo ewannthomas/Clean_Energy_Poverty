@@ -1,4 +1,6 @@
 This is the repository for the codes for the clean energy poverty paper published in Energy Economics journal. 
+
+Data used: IHDS 2004-05 and IHDS 2011-12. available for download at the IHDS website.
 link to paper:https://www.sciencedirect.com/science/article/pii/S0140988321002917?via%3Dihub
 
 use file "HH Final to Sir (on refined data)" to recreate all the analysis available in the paper. 
