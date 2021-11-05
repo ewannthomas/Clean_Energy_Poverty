@@ -1,1 +1,3 @@
-This is the repository for the codes for the clean energy poverty paper published in Energy Economics journal.
+This is the repository for the codes for the clean energy poverty paper published in Energy Economics journal. 
+
+use file "HH_final_to_sir" to recreate all the analysis available in the paper. 
