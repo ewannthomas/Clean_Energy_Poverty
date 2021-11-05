@@ -1,3 +1,12 @@
 This is the repository for the codes for the clean energy poverty paper published in Energy Economics journal. 
+link to paper:https://www.sciencedirect.com/science/article/pii/S0140988321002917?via%3Dihub
 
-use file "HH_final_to_sir" to recreate all the analysis available in the paper. 
+use file "HH Final to Sir (on refined data)" to recreate all the analysis available in the paper. 
+
+The file "HH" is the do file for cleaning the panel IHDS datasets.
+
+The file "Writeup tabs and graph generate" includes mutiple iterations of the tables and graphs presented in the final paper. Similarly the file "Graphs and Spineplots" inlcudes codes for creating siome spineplots which were not part of the paper.
+
+The file "Individuals" contains codes towards cleaning the indiviuals' datsets of IHDS.
+
+
